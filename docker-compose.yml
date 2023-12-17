@@ -1,0 +1,9 @@
+#This is docker compose file
+
+version: '3'
+
+services:
+    web:
+       image: kailash05/intuji-app:latest
+       ports:
+          - "80:80"
