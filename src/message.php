@@ -1,4 +1,6 @@
 <?php
+
+	// We have also tested the same thing in Hello.php
 	// Include Composer's autoloader to automatically load the required classes.
 	require_once __DIR__ . '/../vendor/autoload.php';
 	
